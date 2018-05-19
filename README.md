@@ -1,0 +1,2 @@
+# EmptyGitRepository
+Test connectivity
